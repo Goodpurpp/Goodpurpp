@@ -24,10 +24,10 @@
 <br />
 
 ### :fire: My Stats :
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Goodpurpp)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Goodpurpp)}
 
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goodpurpp)
+[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=Goodpurpp)
 
 <!--
 **Goodpurpp/Goodpurpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
