@@ -7,7 +7,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Goodpurpp&style=for-the-badge&color=blue)
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
