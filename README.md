@@ -22,6 +22,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 <br />
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Goodpurpp&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **Goodpurpp/Goodpurpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
