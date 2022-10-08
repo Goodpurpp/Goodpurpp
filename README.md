@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/Tg0n4wTsPfypGVvaUQ/giphy.gif?cid=ecf05e47rdzmi59brl20uei9srhhk77nk60tvy2if95jimxz&rid=giphy.gif&ct=g" width="100"/>
+</div>
 <!--
 **Goodpurpp/Goodpurpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
