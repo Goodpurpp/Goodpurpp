@@ -4,10 +4,14 @@
 - 👨‍🎓 I'm 19 years old
 - 💻 I study at [School 21](https://21-school.ru/)
 - :house:  I live in Yekaterinburg, Russia
+
+
 ![](https://komarev.com/ghpvc/?username=Goodpurpp&style=for-the-badge&color=blue)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
+
+
 ### Languages and Tools I use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
