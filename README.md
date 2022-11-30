@@ -1,7 +1,6 @@
 ### Hi there, I'm Andrey 👋
 ### Beginning C++ / C copypaster
 ### About me:
-- 👨‍🎓 I'm 19 years old
 - 💻 I study at [School 21](https://21-school.ru/)
 - :house:  I live in Yekaterinburg, Russia
 
